@@ -17,7 +17,6 @@ OTT 의 사용률이 점점 떨어질 것으로 전망하였습니다.
 이런 점을 해결하기 위해서 각자 취향을 확인할 수 있는 질문을 묻고, 그 결과에 따른 영화를 추천해주는 서비스입니다.
 ![Slide 16_9 - 1](https://github.com/unithon-10th-1team/.github/assets/64088250/9e368477-88db-4b6c-992f-5419d68688b3)
 ![Slide 16_9 - 2](https://github.com/unithon-10th-1team/.github/assets/64088250/c22fcc3c-6741-48cf-beef-80a3f20e34c6)
-![Slide 16_9 - 3](https://github.com/unithon-10th-1team/.github/assets/64088250/d5e6cd81-5836-4799-b89e-e6eb4cd3b06c)
 ![Slide 16_9 - 4](https://github.com/unithon-10th-1team/.github/assets/64088250/f25b305a-adba-4faf-a569-6aec4af3f583)
 ![Slide 16_9 - 5](https://github.com/unithon-10th-1team/.github/assets/64088250/1b0b65c9-6bcc-45e0-b8bc-180b2db15464)
 ![Slide 16_9 - 6](https://github.com/unithon-10th-1team/.github/assets/64088250/ae8ca716-0c1a-485f-b46b-537ef8f2d15b)
